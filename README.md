@@ -1,4 +1,4 @@
 # demo
 first github repository
 <br>
-by - Raghav M.
+by - Raghav Maheshwari
